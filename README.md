@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Doka Town</title>
-<link rel="stylesheet" type="text/css" href="Doka.css">
+<!--<link rel="stylesheet" type="text/css" href="Doka.css">-->
 <style>
 * {
   margin:0px;
